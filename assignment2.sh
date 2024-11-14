@@ -87,5 +87,3 @@ for user in dennis aubrey captain snibbles brownie scooter sandy perrier cindy t
 
 done
 echo **SUCCESS**
-
-########################################################################
